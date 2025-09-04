@@ -56,7 +56,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: url('d0c5468e-2a44-4c12-b674-b5e4acb0d1d9.jpg.') center/cover no-repeat;
+  background: img ('d0c5468e-2a44-4c12-b674-b5e4acb0d1d9.jpg.') center/cover no-repeat;
   color: white;
   position: relative;
   padding: 60px 8%;
@@ -259,3 +259,4 @@
     font-size: 1.6rem;
   }
 }
+
